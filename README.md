@@ -1,30 +1,26 @@
-Digit Classification
+🚀 Digit Classification
 
+A deep learning project to classify handwritten digits with 98%+ accuracy using CNNs and the MNIST dataset.
 
-A deep learning project to classify handwritten digits with over 98% accuracy using the MNIST dataset and Convolutional Neural Networks (CNNs).
+📌 Features
 
-🚀 Features
 ✅ Trains and tests a robust CNN to recognize handwritten digits.
 
 ✅ Achieves over 98% test accuracy.
 
-✅ Includes an interactive web app where users can draw digits and get instant predictions.
+✅ Interactive web app — draw digits & get instant predictions.
 
-✅ Uses TensorFlow/Keras, OpenCV, NumPy, Pandas, Matplotlib for data processing and visualization.
+✅ Clean data processing & visualization with OpenCV, NumPy, Pandas, Matplotlib.
 
 🧰 Tech Stack
-Languages & Frameworks:
 
-Python
+Language: Python
 
-TensorFlow/Keras
+Frameworks & Libraries: TensorFlow/Keras, NumPy, Pandas, Matplotlib, OpenCV
 
-NumPy, Pandas
-
-Matplotlib, OpenCV
-
-Jupyter Notebook
+Environment: Jupyter Notebook
 
 📂 Dataset
-MNIST dataset — 70,000 labeled images of handwritten digits (0–9).
+
+MNIST Dataset: 70,000 labeled images of handwritten digits (0–9).
 
